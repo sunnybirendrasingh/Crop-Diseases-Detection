@@ -1,2 +1,2 @@
 # Crop-Diseases-Detection
-CNNs is convolution neural networks designed for processing data, it is used in image Detection and analysis.Crops diseases Detection is done in convolution neural network
+This dataset is regarding face expression based on the behaviour pattern of expresion. Deep Learning model that predicts Crop Diseases Detection. The model is successfully classifying the image hence we can say that which diseases plant have. CNNs models find application in various Real-life scenarios ,especially in fields where understanding and processing is crucial. Commomly used, Computer vision ,Healthcare ,Gaming and Image Segmentation
